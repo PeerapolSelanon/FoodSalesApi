@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "SLt/kd5QIHi5jwDWfybsC+xgPmz5FuzdbJ/UywKWjLU=",
+  "Source": "FoodSalesApi",
+  "BasePath": "_content/FoodSalesApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
